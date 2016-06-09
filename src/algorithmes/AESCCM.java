@@ -1,3 +1,16 @@
+/*************************************************************************
+*                                                                        *
+*  Télécom ParisTech, Département INFRES,                                *
+*  Team Securité des Réseaux,                                            *
+*  URL: "https://www.telecom-paristech.fr"                               *
+*                                                                        *
+*************************************************************************/
+/**
+ * @author Eduardo Sallés Daniel, eduardo.sallesdaniel@telecom-paristech.fr
+ * @author Julien Huor, julien.huor@gmail.com
+ * @author Jean-Philippe, monteuuis@telecom-paristech.fr
+ */
+ 
 package algorithmes;
 
 import java.io.UnsupportedEncodingException;
